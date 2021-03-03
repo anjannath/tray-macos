@@ -574,7 +574,7 @@
                                 </textFieldCell>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rrI-s8-h96">
-                                <rect key="frame" x="54" y="450" width="276" height="13"/>
+                                <rect key="frame" x="54" y="450" width="513" height="13"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="left" title="(Set the number of CPU(s) to use for the OpenShift cluster)" allowsEditingTextAttributes="YES" usesSingleLineMode="YES" id="uk4-0p-QAe">
                                     <font key="font" metaFont="systemUltraLight" size="10"/>
@@ -583,7 +583,7 @@
                                 </textFieldCell>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ikZ-Z3-TW1">
-                                <rect key="frame" x="54" y="413" width="265" height="13"/>
+                                <rect key="frame" x="54" y="413" width="513" height="13"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="left" title="(Set the amount of RAM to use for the OpenShift cluster)" id="IfI-dy-FaV">
                                     <font key="font" metaFont="systemUltraLight" size="10"/>
@@ -592,7 +592,7 @@
                                 </textFieldCell>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3nj-4a-iCz">
-                                <rect key="frame" x="54" y="373" width="199" height="13"/>
+                                <rect key="frame" x="54" y="373" width="513" height="13"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" title="(Set the amount of storage for the cluster)" id="Ljn-bX-iaf">
                                     <font key="font" metaFont="systemUltraLight" size="10"/>
@@ -637,7 +637,7 @@
                                 </connections>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="SW0-T3-urh" customClass="SubstringLinkedTextField" customModule="CodeReady_Containers" customModuleProvider="target">
-                                <rect key="frame" x="54" y="270" width="436" height="26"/>
+                                <rect key="frame" x="54" y="270" width="513" height="26"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" id="ZxD-pe-mcX">
                                     <font key="font" metaFont="systemUltraLight" size="10"/>
@@ -652,7 +652,7 @@ You can download it from https://cloud.redhat.com/openshift/install/crc/installe
                                 </userDefinedRuntimeAttributes>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5p4-hW-a6h" customClass="SubstringLinkedTextField" customModule="CodeReady_Containers" customModuleProvider="target">
-                                <rect key="frame" x="54" y="200" width="439" height="26"/>
+                                <rect key="frame" x="54" y="200" width="513" height="26"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" allowsUndo="NO" id="oPV-fj-Acj">
                                     <font key="font" metaFont="systemUltraLight" size="10"/>
@@ -666,7 +666,7 @@ You can download it from https://cloud.redhat.com/openshift/install/crc/installe
                                 </userDefinedRuntimeAttributes>
                             </textField>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0Y5-IP-VTO">
-                                <rect key="frame" x="54" y="105" width="210" height="13"/>
+                                <rect key="frame" x="54" y="105" width="252" height="13"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" title="(Extra DNS server to configure in the cluster)" id="Rtk-ob-KJQ">
                                     <font key="font" metaFont="systemUltraLight" size="10"/>
